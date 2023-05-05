@@ -1,0 +1,15 @@
+C:\Users\ugesh\source\repos\RFP-HelloWorld-281\RFP-HelloWorld-281\bin\Debug\net6.0\RFP-HelloWorld-281.exe
+C:\Users\ugesh\source\repos\RFP-HelloWorld-281\RFP-HelloWorld-281\bin\Debug\net6.0\RFP-HelloWorld-281.deps.json
+C:\Users\ugesh\source\repos\RFP-HelloWorld-281\RFP-HelloWorld-281\bin\Debug\net6.0\RFP-HelloWorld-281.runtimeconfig.json
+C:\Users\ugesh\source\repos\RFP-HelloWorld-281\RFP-HelloWorld-281\bin\Debug\net6.0\RFP-HelloWorld-281.dll
+C:\Users\ugesh\source\repos\RFP-HelloWorld-281\RFP-HelloWorld-281\bin\Debug\net6.0\RFP-HelloWorld-281.pdb
+C:\Users\ugesh\source\repos\RFP-HelloWorld-281\RFP-HelloWorld-281\obj\Debug\net6.0\RFP-HelloWorld-281.csproj.AssemblyReference.cache
+C:\Users\ugesh\source\repos\RFP-HelloWorld-281\RFP-HelloWorld-281\obj\Debug\net6.0\RFP-HelloWorld-281.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugesh\source\repos\RFP-HelloWorld-281\RFP-HelloWorld-281\obj\Debug\net6.0\RFP-HelloWorld-281.AssemblyInfoInputs.cache
+C:\Users\ugesh\source\repos\RFP-HelloWorld-281\RFP-HelloWorld-281\obj\Debug\net6.0\RFP-HelloWorld-281.AssemblyInfo.cs
+C:\Users\ugesh\source\repos\RFP-HelloWorld-281\RFP-HelloWorld-281\obj\Debug\net6.0\RFP-HelloWorld-281.csproj.CoreCompileInputs.cache
+C:\Users\ugesh\source\repos\RFP-HelloWorld-281\RFP-HelloWorld-281\obj\Debug\net6.0\RFP-HelloWorld-281.dll
+C:\Users\ugesh\source\repos\RFP-HelloWorld-281\RFP-HelloWorld-281\obj\Debug\net6.0\refint\RFP-HelloWorld-281.dll
+C:\Users\ugesh\source\repos\RFP-HelloWorld-281\RFP-HelloWorld-281\obj\Debug\net6.0\RFP-HelloWorld-281.pdb
+C:\Users\ugesh\source\repos\RFP-HelloWorld-281\RFP-HelloWorld-281\obj\Debug\net6.0\RFP-HelloWorld-281.genruntimeconfig.cache
+C:\Users\ugesh\source\repos\RFP-HelloWorld-281\RFP-HelloWorld-281\obj\Debug\net6.0\ref\RFP-HelloWorld-281.dll
